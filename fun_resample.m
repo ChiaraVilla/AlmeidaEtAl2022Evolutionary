@@ -3,7 +3,7 @@
 %%% "Experimentally-informed mathematical modelling of the evolutionary %%%
 %%%   dynamics of glucose-deprived aggressive breast cancer cells"      %%%
 %%%                                                                     %%%
-%%%     L. Almeida, J. Denis, N. Ferrand, T. Lorenzi, M. Sabbah,        %%%
+%%% L. Almeida, J. Denis, N. Ferrand, T. Lorenzi, A. Prunet, M. Sabbah, %%%
 %%%                         C. Villa (*)                                %%%
 %%%                                                                     %%%
 %%%                 Submitted for publication (2023)                    %%%
