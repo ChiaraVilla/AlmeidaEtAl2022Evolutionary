@@ -3,7 +3,7 @@
 %%%       "Evolutionary dynamics of glucose-deprived cancer cells:      %%%
 %%%     insights from experimentally-informed mathematical modelling"   %%%
 %%%                                                                     %%%
-%%%     L. Almeida, J. Denis, N. Ferrand, T. Lorenzi, M. Sabbah,        %%%
+%%% L. Almeida, J. Denis, N. Ferrand, T. Lorenzi, A. Prunet, M. Sabbah, %%%
 %%%                         C. Villa (*)                                %%%
 %%%                                                                     %%%
 %%%                 Submitted for publication (2023)                    %%%
