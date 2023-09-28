@@ -1,9 +1,9 @@
 # AlmeidaEtAl2023Evolutionary
-Matlab code used to calibrate (and simulate) the partial differential equation model proposed in Almeidaetal2023evolutionary with the experimental data described in the same manuscript.
+Matlab code used to calibrate (and simulate) the partial differential equation model proposed in Almeidaetal2023evolutionary with the experimental data described in the same manuscript, as well as to perform uncertainty quantification via a bootstrapping algorithm.
 
 **Public gitlab repository AlmeidaEtAl2023Evolutionary** <br />
-This repository provides Matlab files to perform model calibration from experimental data and simulations of the partial intergro-differential equation model described in <br />
-L. Almeida, J. Denis, N. Ferrand, T. Lorenzi, M. Sabbah, C. Villa <br />
+This repository provides Matlab files to perform model calibration and uncertainty quantification from experimental data and simulations of the partial intergro-differential equation model described in <br />
+L. Almeida, J. Denis, N. Ferrand, T. Lorenzi, A. Prunet, M. Sabbah, C. Villa <br />
 Evolutionary dynamics of glucose-deprived cancer cells: insights from experimentally-informed mathematical modelling <br />
 Submitted for publication (2023) and available on ArXiv <br />
 [ArXiv link to come] <br />
