@@ -40,7 +40,11 @@
 function [yval_MLE,y_MLE] = fun_iterMLE(y_m,y_M,Niter,Udm,Udsd,file_name)
 
     %%% Start with many function evaluation points to estimate MLE
-    Neval = [500,400,300,200,100,repelem(50,Niter-5)];
+    if Niter>5
+        Neval = [500,400,300,200,100,repelem(50,Niter-5)];
+    else
+        Neval = 500;
+    end
     yval_MLE = 5000;
 
     %%% Shrinking domain fraction
